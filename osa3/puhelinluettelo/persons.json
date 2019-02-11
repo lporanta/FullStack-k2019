@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "name": "Arto Hellas",
+        "number": "12345"
+    },
+    {
+        "id": "2",
+        "name": "Arto Järvinen",
+        "number": "123456"
+    },
+    {
+        "id": "3",
+        "name": "Lea kutvonen",
+        "number": "12345678"
+    }
+]
